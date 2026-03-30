@@ -1,4 +1,13 @@
+Favorite Foods
+==============
 🍕 Pizza
 🍔 Hamburger
 🍣 Sushi
 🍝 Pasta
+
+Favorite Movies
+================
+🌌 The Shawshank Redemption
+🦁 The Lion King
+🛳️ Titanic
+🌍 Avatar
